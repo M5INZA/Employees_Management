@@ -1,0 +1,16 @@
++Take Backup | 12/31/2023 12:28:05 PM | C:\Users\m5inz1\Desktop\Employee_2023_12_31_12_28_5.sql
++Restor Backup | 12/31/2023 12:28:19 PM | C:\Users\m5inz1\Desktop\Employee_2023_12_31_12_23_33.sql
++Take Backup | 12/31/2023 12:28:22 PM | C:\Users\m5inz1\Desktop\Employee_2023_12_31_12_28_22.sql
++Take Backup | 1/20/2024 12:58:30 PM | C:\Users\m5inz1\Desktop\Employee_2024_01_20_12_58_29.db
++Take Backup | 1/20/2024 1:02:14 PM | C:\Users\m5inz1\Desktop\Employee_2024_01_20_13_02_12.db
++Restore Backup | 1/20/2024 1:23:31 PM | C:\Users\m5inz1\Desktop\Employee_2024_01_20_13_02_12.db
++Restore Backup | 1/20/2024 1:25:44 PM | C:\Users\m5inz1\Desktop\Employee_2024_01_20_13_02_12.db
++Restore Backup | 1/20/2024 1:26:37 PM | C:\Users\m5inz1\Desktop\Employee_2024_01_20_13_02_12.db
++Restore Backup | 1/20/2024 1:33:25 PM | C:\Users\m5inz1\Desktop\Employee_2024_01_20_13_02_12.db
++Restore Backup | 1/20/2024 1:33:37 PM | C:\Users\m5inz1\Desktop\Employee_2024_01_20_13_02_12.db
++Take Backup | 1/21/2024 2:05:10 PM | C:\Users\m5inz1\Desktop\Backup.db
++Take Backup | 1/21/2024 2:11:05 PM | C:\Users\m5inz1\Desktop\Employee_2024_1_21_14_11_5.sql
++Restore Backup | 1/21/2024 2:14:14 PM | C:\Users\m5inz1\Desktop\Employee_2024_1_21_14_11_5.sql
++Restore Backup | 1/21/2024 2:14:26 PM | C:\Users\m5inz1\Desktop\Employee_2024_1_21_14_11_5.sql
+-Restore Backup | 1/21/2024 2:18:50 PM | C:\Users\m5inz1\Desktop\Employee_2024_1_21_14_11_5.sql
+-Restore Backup | 1/21/2024 2:20:47 PM | C:\Users\m5inz1\Desktop\Employee_2024_1_21_14_11_5.sql
